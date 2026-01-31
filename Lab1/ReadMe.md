@@ -1,4 +1,4 @@
-Doing fundamental Docker image operations: creating an image, exporting it to a tar archive, and executing it on local machine.
+In this lab we are doing fundamental Docker image operations: creating an image, exporting it to a tar archive, and executing it on local machine.
 
 ## 1) Create the image
 
