@@ -62,6 +62,7 @@ To test the prediction endpoint:
 
 Use the following JSON body when testing the `/predict` endpoint:
 
+```json
 {
   "alcohol": 12.84,
   "malic_acid": 2.96,
@@ -77,3 +78,4 @@ Use the following JSON body when testing the `/predict` endpoint:
   "od280_od315_of_diluted_wines": 2.15,
   "proline": 590.0
 }
+```
