@@ -1,9 +1,7 @@
 # EvidentlyAI Data Monitoring Lab
 
-Minimal data monitoring example using Evidently and the California
+Data monitoring example using Evidently and the California
 Housing dataset.
-
-## Overview
 
 This notebook demonstrates how to:
 
