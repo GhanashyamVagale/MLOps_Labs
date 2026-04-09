@@ -30,8 +30,8 @@ This lab demonstrates how to use DVC (Data Version Control) for data versioning 
 ### 4. DVC Remote Configuration
 - Added a GCS bucket as the default DVC remote:
   ```bash
-  dvc remote add -d sanjbucket gs://sanjana-lab4
-  dvc remote modify sanjbucket credentialpath ../gcp-key.json
+  dvc remote add -d gvsbucket gs://ghanashyam-lab6
+  dvc remote modify gvsbucket credentialpath ../gcp-key.json
   ```
 - The `.dvc/config` file contains the remote configuration and credential path.
 
